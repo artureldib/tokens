@@ -1,0 +1,322 @@
+{
+  "Background": {
+    "color-acds-background-active": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-acds-background-secondary-light": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-background-accent": {
+      "$type": "color",
+      "$value": "{White Oak}"
+    },
+    "color-background-acds-primary": {
+      "$type": "color",
+      "$value": "{Primary.2}"
+    },
+    "color-background-acds-primary-dark": {
+      "$type": "color",
+      "$value": "{Primary.1}"
+    },
+    "color-background-acds-primary-light": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-background-acds-primary-lighter": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-background-acds-secondary-alt": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-background-acds-secondary-light": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-background-dark": {
+      "$type": "color",
+      "$value": "{Black}"
+    },
+    "color-background-disabled": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 400}"
+    },
+    "color-background-light": {
+      "$type": "color",
+      "$value": "{White}"
+    },
+    "color-background-secondary": {
+      "$type": "color",
+      "$value": "{White Oak}"
+    },
+    "color-background-secondary-light": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 300}"
+    }
+  },
+  "Border": {
+    "color-border-acds-focus": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-border-acds-hover": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-border-acds-primary": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-border-acds-primary-light": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-border-disabled": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 300}"
+    },
+    "color-border-error": {
+      "$type": "color",
+      "$value": "{Negative Red}"
+    },
+    "color-border-light": {
+      "$type": "color",
+      "$value": "{White}"
+    },
+    "color-border-main": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 400}"
+    },
+    "color-border-secondary": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 200}"
+    },
+    "color-border-secondary-dark": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 600}"
+    },
+    "color-border-success": {
+      "$type": "color",
+      "$value": "{Alerts.Success Green}"
+    },
+    "color-border-warning": {
+      "$type": "color",
+      "$value": "{Pumpkin Orange}"
+    },
+    "color-divider": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 400}"
+    },
+    "color-scrollbar": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 300}"
+    }
+  },
+  "Buttons": {
+    "acds-primary-button-active-pd": {
+      "$type": "color",
+      "$value": "{Forest Green}"
+    },
+    "acds-primary-button-active-pl": {
+      "$type": "color",
+      "$value": "{Leaf Green (200)}"
+    },
+    "acds-primary-button-active-sd": {
+      "$type": "color",
+      "$value": "{Forest Green}"
+    },
+    "acds-primary-button-active-sl": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "acds-primary-button-hover-pd": {
+      "$type": "color",
+      "$value": "{Forest Green}"
+    },
+    "acds-primary-button-hover-pl": {
+      "$type": "color",
+      "$value": "{Leaf Green (200)}"
+    },
+    "acds-primary-button-hover-sd": {
+      "$type": "color",
+      "$value": "{Forest Green}"
+    },
+    "acds-primary-button-hover-sl": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    }
+  },
+  "Data Visualization": {
+    "color-chart-1": {
+      "$type": "color",
+      "$value": "{Data.Sequential.2}"
+    },
+    "color-chart-10": {
+      "$type": "color",
+      "$value": "{Data.Sequential.11}"
+    },
+    "color-chart-2": {
+      "$type": "color",
+      "$value": "{Data.Sequential.3}"
+    },
+    "color-chart-3": {
+      "$type": "color",
+      "$value": "{Data.Sequential.4}"
+    },
+    "color-chart-4": {
+      "$type": "color",
+      "$value": "{Data.Sequential.5}"
+    },
+    "color-chart-5": {
+      "$type": "color",
+      "$value": "{Data.Sequential.6}"
+    },
+    "color-chart-6": {
+      "$type": "color",
+      "$value": "{Data.Sequential.7}"
+    },
+    "color-chart-7": {
+      "$type": "color",
+      "$value": "{Data.Sequential.8}"
+    },
+    "color-chart-8": {
+      "$type": "color",
+      "$value": "{Data.Sequential.9}"
+    },
+    "color-chart-9": {
+      "$type": "color",
+      "$value": "{Data.Sequential.10}"
+    },
+    "color-chart-acds-0": {
+      "$type": "color",
+      "$value": "{Data.Sequential.1}"
+    }
+  },
+  "General": {
+    "acds-primary-alt": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "acds-primary-dark": {
+      "$type": "color",
+      "$value": "{Forest Green}"
+    },
+    "acds-primary-light": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "acds-primary-link": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "acds-primary-main": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-common-black": {
+      "$type": "color",
+      "$value": "{Gray Charcoal}"
+    },
+    "color-common-white": {
+      "$type": "color",
+      "$value": "{White}"
+    }
+  },
+  "Icon": {
+    "color-icon-acds-primary": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-icon-acds-primary-dark": {
+      "$type": "color",
+      "$value": "{Forest Green}"
+    },
+    "color-icon-acds-primary-light": {
+      "$type": "color",
+      "$value": "{Light Sky}"
+    },
+    "color-icon-acds-primary-link": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-icon-dark": {
+      "$type": "color",
+      "$value": "{Gray Charcoal}"
+    },
+    "color-icon-disabled": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 400}"
+    },
+    "color-icon-light": {
+      "$type": "color",
+      "$value": "{White}"
+    },
+    "color-icon-secondary": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 500}"
+    }
+  },
+  "Status": {
+    "color-error": {
+      "$type": "color",
+      "$value": "{Negative Red}"
+    },
+    "color-success": {
+      "$type": "color",
+      "$value": "{Alerts.Success Green}"
+    },
+    "color-warning": {
+      "$type": "color",
+      "$value": "{Pumpkin Orange}"
+    }
+  },
+  "Text": {
+    "color-text-acds-primary": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-text-acds-primary-light": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 300}"
+    },
+    "color-text-disabled-primary": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 400}"
+    },
+    "color-text-disabled-secondary": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 400}"
+    },
+    "color-text-error": {
+      "$type": "color",
+      "$value": "{Negative Red}"
+    },
+    "color-text-input": {
+      "$type": "color",
+      "$value": "{Gray Charcoal}"
+    },
+    "color-text-light": {
+      "$type": "color",
+      "$value": "{White}"
+    },
+    "color-text-link": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-text-main": {
+      "$type": "color",
+      "$value": "{Gray Charcoal}"
+    },
+    "color-text-secondary": {
+      "$type": "color",
+      "$value": "{Neutrals.Gray 500}"
+    },
+    "color-text-success": {
+      "$type": "color",
+      "$value": "{Alerts.Success Green}"
+    }
+  }
+}
