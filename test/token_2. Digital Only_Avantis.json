@@ -1,0 +1,54 @@
+{
+  "Alerts": {
+    "Caution Light": {
+      "$type": "color",
+      "$value": "#faf9f2"
+    },
+    "Negative Red Light": {
+      "$type": "color",
+      "$value": "#fdf4f4"
+    },
+    "Success Green": {
+      "$type": "color",
+      "$value": "#1c7d20"
+    },
+    "Success Green Light": {
+      "$type": "color",
+      "$value": "#f4f8f4"
+    }
+  },
+  "Light Sky": {
+    "$type": "color",
+    "$value": "#f8fcfb"
+  },
+  "Neutrals": {
+    "Gray 100": {
+      "$type": "color",
+      "$value": "#fafafa"
+    },
+    "Gray 200": {
+      "$type": "color",
+      "$value": "#f2f2f2"
+    },
+    "Gray 300": {
+      "$type": "color",
+      "$value": "#e6e6e6"
+    },
+    "Gray 400": {
+      "$type": "color",
+      "$value": "#cccccc"
+    },
+    "Gray 500": {
+      "$type": "color",
+      "$value": "#808080"
+    },
+    "Gray 600": {
+      "$type": "color",
+      "$value": "#4d4d4d"
+    }
+  },
+  "Sky": {
+    "$type": "color",
+    "$value": "#dbf0ed"
+  }
+}
