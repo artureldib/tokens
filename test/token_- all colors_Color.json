@@ -1,0 +1,198 @@
+{
+  "Bark Brown": {
+    "$type": "color",
+    "$value": "#6e4109"
+  },
+  "Black": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Blood Orange": {
+    "$type": "color",
+    "$value": "#ee7624"
+  },
+  "Blood Orange (200)": {
+    "$type": "color",
+    "$value": "#f8c8a7"
+  },
+  "Blood Orange (300)": {
+    "$type": "color",
+    "$value": "#f5ad7c"
+  },
+  "Blood Orange (400)": {
+    "$type": "color",
+    "$value": "#f19150"
+  },
+  "Chiffon Yellow": {
+    "$type": "color",
+    "$value": "#ffffd3"
+  },
+  "Cloud Blue": {
+    "$type": "color",
+    "$value": "#f5fbff"
+  },
+  "Dark Mint Green": {
+    "$type": "color",
+    "$value": "#7dedb5"
+  },
+  "Dark Teal": {
+    "$type": "color",
+    "$value": "#006a7a"
+  },
+  "Dark Teal (200)": {
+    "$type": "color",
+    "$value": "#99c3ca"
+  },
+  "Dark Teal (300)": {
+    "$type": "color",
+    "$value": "#66a6af"
+  },
+  "Dark Teal (400)": {
+    "$type": "color",
+    "$value": "#338895"
+  },
+  "Earth Brown": {
+    "$type": "color",
+    "$value": "#3d2621"
+  },
+  "Forest Green": {
+    "$type": "color",
+    "$value": "#032b1f"
+  },
+  "Glacier Blue": {
+    "$type": "color",
+    "$value": "#dbf0ed"
+  },
+  "Gray Charcoal": {
+    "$type": "color",
+    "$value": "#212121"
+  },
+  "Gray Fog": {
+    "$type": "color",
+    "$value": "#a7a9ac"
+  },
+  "Leaf Green": {
+    "$type": "color",
+    "$value": "#035945"
+  },
+  "Leaf Green (100)": {
+    "$type": "color",
+    "$value": "#e6eeec"
+  },
+  "Leaf Green (200)": {
+    "$type": "color",
+    "$value": "#c0d5d0"
+  },
+  "Leaf Green (300)": {
+    "$type": "color",
+    "$value": "#9abdb5"
+  },
+  "Leaf Green (400)": {
+    "$type": "color",
+    "$value": "#75a499"
+  },
+  "Leaf Green (500)": {
+    "$type": "color",
+    "$value": "#689b8f"
+  },
+  "Leaf Green (600)": {
+    "$type": "color",
+    "$value": "#4f8b7d"
+  },
+  "Leaf Green (700)": {
+    "$type": "color",
+    "$value": "#357a6a"
+  },
+  "Leaf Green (800)": {
+    "$type": "color",
+    "$value": "#297261"
+  },
+  "Light Mint Green": {
+    "$type": "color",
+    "$value": "#c9ffde"
+  },
+  "Light Teal": {
+    "$type": "color",
+    "$value": "#57cadb"
+  },
+  "Light Walnut Brown": {
+    "$type": "color",
+    "$value": "#9c8156"
+  },
+  "Lilac Purple": {
+    "$type": "color",
+    "$value": "#9990c5"
+  },
+  "Marigold Yellow": {
+    "$type": "color",
+    "$value": "#ffd700"
+  },
+  "Midnight Blue": {
+    "$type": "color",
+    "$value": "#172b54"
+  },
+  "Navy Blue": {
+    "$type": "color",
+    "$value": "#00508b"
+  },
+  "Navy Blue (100)": {
+    "$type": "color",
+    "$value": "#e5edf3"
+  },
+  "Navy Blue (200)": {
+    "$type": "color",
+    "$value": "#bfd3e2"
+  },
+  "Navy Blue (300)": {
+    "$type": "color",
+    "$value": "#99b9d1"
+  },
+  "Navy Blue (400)": {
+    "$type": "color",
+    "$value": "#739fbf"
+  },
+  "Navy Blue (500)": {
+    "$type": "color",
+    "$value": "#4c84ae"
+  },
+  "Navy Blue (600)": {
+    "$type": "color",
+    "$value": "#266a9c"
+  },
+  "Negative Red": {
+    "$type": "color",
+    "$value": "#ff0019"
+  },
+  "Powder Blue": {
+    "$type": "color",
+    "$value": "#cdebfe"
+  },
+  "Pumpkin Orange": {
+    "$type": "color",
+    "$value": "#ffb81d"
+  },
+  "Royal Blue": {
+    "$type": "color",
+    "$value": "#007cbb"
+  },
+  "Sky Blue": {
+    "$type": "color",
+    "$value": "#68c4fd"
+  },
+  "Teal": {
+    "$type": "color",
+    "$value": "#0099a9"
+  },
+  "Violet Purple": {
+    "$type": "color",
+    "$value": "#6a0d69"
+  },
+  "White": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "White Oak": {
+    "$type": "color",
+    "$value": "#f4f4ef"
+  }
+}
