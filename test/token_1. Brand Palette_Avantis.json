@@ -1,0 +1,263 @@
+{
+  "Accent": {
+    "1": {
+      "$type": "color",
+      "$value": "{Midnight Blue}"
+    },
+    "10": {
+      "$type": "color",
+      "$value": "{Blood Orange}"
+    },
+    "2": {
+      "$type": "color",
+      "$value": "{Navy Blue}"
+    },
+    "3": {
+      "$type": "color",
+      "$value": "{Royal Blue}"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "{Sky Blue}"
+    },
+    "5": {
+      "$type": "color",
+      "$value": "{Powder Blue}"
+    },
+    "6": {
+      "$type": "color",
+      "$value": "{Cloud Blue}"
+    },
+    "7": {
+      "$type": "color",
+      "$value": "{Chiffon Yellow}"
+    },
+    "8": {
+      "$type": "color",
+      "$value": "{Marigold Yellow}"
+    },
+    "9": {
+      "$type": "color",
+      "$value": "{Pumpkin Orange}"
+    }
+  },
+  "Data": {
+    "Diverging": {
+      "-1": {
+        "$type": "color",
+        "$value": "{Blood Orange (200)}"
+      },
+      "-2": {
+        "$type": "color",
+        "$value": "{Blood Orange (300)}"
+      },
+      "-3": {
+        "$type": "color",
+        "$value": "{Blood Orange (400)}"
+      },
+      "-4": {
+        "$type": "color",
+        "$value": "{Blood Orange}"
+      },
+      "0": {
+        "$type": "color",
+        "$value": "{Glacier Blue}"
+      },
+      "1": {
+        "$type": "color",
+        "$value": "{Dark Teal (200)}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{Dark Teal (300)}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{Dark Teal (400)}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{Dark Teal}"
+      }
+    },
+    "Negative": {
+      "$type": "color",
+      "$value": "{Negative Red}"
+    },
+    "Qualitative": {
+      "1": {
+        "$type": "color",
+        "$value": "{Teal}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{Bark Brown}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{Light Walnut Brown}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{Violet Purple}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{Lilac Purple}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{Gray Fog}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{Dark Teal}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{Light Teal}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{Navy Blue}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{Royal Blue}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{Pumpkin Orange}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{Blood Orange}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{Sky Blue}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{Marigold Yellow}"
+      }
+    },
+    "Sequential": {
+      "1": {
+        "$type": "color",
+        "$value": "{Dark Teal}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{Navy Blue (500)}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{Navy Blue (400)}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{Navy Blue (300)}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{Navy Blue (200)}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{Navy Blue (100)}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#26808e"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#4c97a2"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#73adb6"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#99c3ca"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#bfdade"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#e5f0f2"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{Navy Blue}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{Navy Blue (600)}"
+      }
+    }
+  },
+  "Neutrals": {
+    "Black": {
+      "$type": "color",
+      "$value": "{Black}"
+    },
+    "Gray Charcoal": {
+      "$type": "color",
+      "$value": "{Gray Charcoal}"
+    },
+    "White": {
+      "$type": "color",
+      "$value": "{White}"
+    }
+  },
+  "Primary": {
+    "1": {
+      "$type": "color",
+      "$value": "{Dark Teal}"
+    },
+    "2": {
+      "$type": "color",
+      "$value": "{Teal}",
+      "$description": "Main Brand color"
+    },
+    "3": {
+      "$type": "color",
+      "$value": "{Light Teal}"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "rgba(255, 255, 255, 0.0000)"
+    }
+  },
+  "Secondary": {
+    "1": {
+      "$type": "color",
+      "$value": "{Glacier Blue}"
+    },
+    "2": {
+      "$type": "color",
+      "$value": "{White Oak}"
+    },
+    "3": {
+      "$type": "color",
+      "$value": "{Earth Brown}"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "{Dark Teal}"
+    },
+    "5": {
+      "$type": "color",
+      "$value": "{Teal}"
+    },
+    "6": {
+      "$type": "color",
+      "$value": "{Light Teal}"
+    }
+  }
+}
