@@ -1,0 +1,318 @@
+{
+  "Background": {
+    "color-acds-background-active": {
+      "$type": "color",
+      "$value": "#edf7f1"
+    },
+    "color-acds-background-secondary-light": {
+      "$type": "color",
+      "$value": "#dbefec"
+    },
+    "color-background-accent": {
+      "$type": "color",
+      "$value": "#e9e8e2"
+    },
+    "color-background-acds-primary": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-background-acds-primary-dark": {
+      "$type": "color",
+      "$value": "#01231a"
+    },
+    "color-background-acds-primary-light": {
+      "$type": "color",
+      "$value": "#dcefe4"
+    },
+    "color-background-acds-primary-lighter": {
+      "$type": "color",
+      "$value": "#edf7f1"
+    },
+    "color-background-acds-secondary-alt": {
+      "$type": "color",
+      "$value": "#edf7f6"
+    },
+    "color-background-acds-secondary-light": {
+      "$type": "color",
+      "$value": "#dbefec"
+    },
+    "color-background-dark": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "color-background-disabled": {
+      "$type": "color",
+      "$value": "#cccccc"
+    },
+    "color-background-light": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "color-background-secondary": {
+      "$type": "color",
+      "$value": "#f4f3f0"
+    },
+    "color-background-secondary-light": {
+      "$type": "color",
+      "$value": "#e6e6e6"
+    }
+  },
+  "Border": {
+    "color-border-acds-focus": {
+      "$type": "color",
+      "$value": "{Primary.2}"
+    },
+    "color-border-acds-hover": {
+      "$type": "color",
+      "$value": "{Primary.2}"
+    },
+    "color-border-acds-primary": {
+      "$type": "color",
+      "$value": "{Primary.2}"
+    },
+    "color-border-acds-primary-light": {
+      "$type": "color",
+      "$value": "#dcefe4"
+    },
+    "color-border-disabled": {
+      "$type": "color",
+      "$value": "#e6e6e6"
+    },
+    "color-border-error": {
+      "$type": "color",
+      "$value": "{Status.color-error}"
+    },
+    "color-border-light": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "color-border-main": {
+      "$type": "color",
+      "$value": "#cccccc"
+    },
+    "color-border-secondary": {
+      "$type": "color",
+      "$value": "#f2f2f2"
+    },
+    "color-border-secondary-dark": {
+      "$type": "color",
+      "$value": "#4d4d4d"
+    },
+    "color-border-success": {
+      "$type": "color",
+      "$value": "#1c7d20"
+    },
+    "color-border-warning": {
+      "$type": "color",
+      "$value": "#998200"
+    },
+    "color-divider": {
+      "$type": "color",
+      "$value": "#cccccc"
+    },
+    "color-scrollbar": {
+      "$type": "color",
+      "$value": "#e6e6e6"
+    }
+  },
+  "Buttons": {
+    "acds-primary-button-active-pd": {
+      "$type": "color",
+      "$value": "#032b1f"
+    },
+    "acds-primary-button-active-pl": {
+      "$type": "color",
+      "$value": "#b8e0c9"
+    },
+    "acds-primary-button-active-sd": {
+      "$type": "color",
+      "$value": "#01231a"
+    },
+    "acds-primary-button-active-sl": {
+      "$type": "color",
+      "$value": "#3f8a70"
+    },
+    "acds-primary-button-hover-pd": {
+      "$type": "color",
+      "$value": "#013223"
+    },
+    "acds-primary-button-hover-pl": {
+      "$type": "color",
+      "$value": "#b8e0c9"
+    },
+    "acds-primary-button-hover-sd": {
+      "$type": "color",
+      "$value": "#01231a"
+    },
+    "acds-primary-button-hover-sl": {
+      "$type": "color",
+      "$value": "#3f8a70"
+    }
+  },
+  "Data Visualization": {
+    "color-chart-1": {
+      "$type": "color",
+      "$value": "#79ba99"
+    },
+    "color-chart-10": {
+      "$type": "color",
+      "$value": "#8c94d9"
+    },
+    "color-chart-2": {
+      "$type": "color",
+      "$value": "#b8e0c9"
+    },
+    "color-chart-3": {
+      "$type": "color",
+      "$value": "#92d0d4"
+    },
+    "color-chart-4": {
+      "$type": "color",
+      "$value": "#6bbfc7"
+    },
+    "color-chart-5": {
+      "$type": "color",
+      "$value": "#45aeba"
+    },
+    "color-chart-6": {
+      "$type": "color",
+      "$value": "#68c4fd"
+    },
+    "color-chart-7": {
+      "$type": "color",
+      "$value": "#cdebfe"
+    },
+    "color-chart-8": {
+      "$type": "color",
+      "$value": "#d9dbf2"
+    },
+    "color-chart-9": {
+      "$type": "color",
+      "$value": "#b3b8e5"
+    },
+    "color-chart-acds-0": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    }
+  },
+  "General": {
+    "acds-primary-alt": {
+      "$type": "color",
+      "$value": "#edf7f1"
+    },
+    "acds-primary-dark": {
+      "$type": "color",
+      "$value": "#032b1f"
+    },
+    "acds-primary-light": {
+      "$type": "color",
+      "$value": "#dcefe4"
+    },
+    "acds-primary-link": {
+      "$type": "color",
+      "$value": "#3f8a70"
+    },
+    "acds-primary-main": {
+      "$type": "color",
+      "$value": "#035945"
+    },
+    "color-common-black": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "color-common-white": {
+      "$type": "color",
+      "$value": "#ffffff"
+    }
+  },
+  "Icon": {
+    "color-icon-acds-primary": {
+      "$type": "color",
+      "$value": "{Primary.2}"
+    },
+    "color-icon-acds-primary-dark": {
+      "$type": "color",
+      "$value": "#01231a"
+    },
+    "color-icon-acds-primary-light": {
+      "$type": "color",
+      "$value": "#dcefe4"
+    },
+    "color-icon-acds-primary-link": {
+      "$type": "color",
+      "$value": "#3f8a70"
+    },
+    "color-icon-dark": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "color-icon-disabled": {
+      "$type": "color",
+      "$value": "#cccccc"
+    },
+    "color-icon-light": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "color-icon-secondary": {
+      "$type": "color",
+      "$value": "#808080"
+    }
+  },
+  "Status": {
+    "color-error": {
+      "$type": "color",
+      "$value": "#dd222a"
+    },
+    "color-success": {
+      "$type": "color",
+      "$value": "#1c7d20"
+    },
+    "color-warning": {
+      "$type": "color",
+      "$value": "#998200"
+    }
+  },
+  "Text": {
+    "color-text-acds-primary": {
+      "$type": "color",
+      "$value": "{Leaf Green}"
+    },
+    "color-text-acds-primary-light": {
+      "$type": "color",
+      "$value": "#e6e6e6"
+    },
+    "color-text-disabled-primary": {
+      "$type": "color",
+      "$value": "#b3b3b3"
+    },
+    "color-text-disabled-secondary": {
+      "$type": "color",
+      "$value": "#cccccc"
+    },
+    "color-text-error": {
+      "$type": "color",
+      "$value": "{Status.color-error}"
+    },
+    "color-text-input": {
+      "$type": "color",
+      "$value": "#1a1a1a"
+    },
+    "color-text-light": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "color-text-link": {
+      "$type": "color",
+      "$value": "#3f8a70"
+    },
+    "color-text-secondary": {
+      "$type": "color",
+      "$value": "#808080"
+    },
+    "color-text-success": {
+      "$type": "color",
+      "$value": "#1c7d20"
+    }
+  }
+}
