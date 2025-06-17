@@ -1,0 +1,26 @@
+{
+  "2xl": {
+    "$type": "number",
+    "$value": 1536
+  },
+  "< sm": {
+    "$type": "number",
+    "$value": 639
+  },
+  "lg": {
+    "$type": "number",
+    "$value": 1024
+  },
+  "md": {
+    "$type": "number",
+    "$value": 768
+  },
+  "sm": {
+    "$type": "number",
+    "$value": 640
+  },
+  "xl": {
+    "$type": "number",
+    "$value": 1280
+  }
+}
