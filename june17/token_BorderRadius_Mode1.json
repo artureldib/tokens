@@ -1,0 +1,34 @@
+{
+  "rounded": {
+    "$type": "string",
+    "$value": "4"
+  },
+  "rounded-2xl": {
+    "$type": "string",
+    "$value": "16"
+  },
+  "rounded-3xl": {
+    "$type": "string",
+    "$value": "24"
+  },
+  "rounded-full": {
+    "$type": "string",
+    "$value": "9999"
+  },
+  "rounded-lg": {
+    "$type": "string",
+    "$value": "8"
+  },
+  "rounded-md": {
+    "$type": "string",
+    "$value": "6"
+  },
+  "rounded-sm": {
+    "$type": "string",
+    "$value": "2"
+  },
+  "rounded-xl": {
+    "$type": "string",
+    "$value": "12"
+  }
+}
